@@ -1,18 +1,22 @@
-# underscore-1.8.3.js 源码解读
+# :eyes: Underscore Analysis
 
-### Notice
+## 个人公众号
+
+欢迎关注我的个人公众号「码农随手记」
+
+## Notice
 
 - 如果您觉得该 Repo 让您有所收获，请点击右上角的「**Star** 」支持楼主
 - 如果您想持续关注楼主的最新系列解读文章，请点击右上角的「**Watch**」订阅
 
 
-### Main
+## Source
 
 - [underscore-1.8.3.js 源码](https://github.com/hanzichi/underscore-analysis/blob/master/underscore-1.8.3.js/src/underscore-1.8.3.js)
 - [underscore-1.8.3.js 源码解读全文注释版](https://github.com/hanzichi/underscore-analysis/blob/master/underscore-1.8.3.js/underscore-1.8.3-analysis.js)
 
 
-### Articles（源码分析过程中的产物）
+## Article
 
 - [为什么用「void 0」代替「undefined」(2016-05-16)](https://github.com/hanzichi/underscore-analysis/issues/1)
 - [常用类型判断以及一些有用的工具方法 (2016-05-21)](https://github.com/hanzichi/underscore-analysis/issues/2)
@@ -40,19 +44,6 @@
 - [Underscore 整体架构浅析 (2016-11-01)](https://github.com/hanzichi/underscore-analysis/issues/27)
 - [源码解读这半年(2016-11-02)](https://github.com/hanzichi/underscore-analysis/issues/28)
 
+## License
 
-
-### Big Events
-
-- 2016-04-10 该 Repo 建立
-- 2016-05-16 「underscore-1.8.3.js 系列解读」第一篇 [「为什么用 void 0 代替 undefined」](https://github.com/hanzichi/underscore-analysis/issues/1) 发表
-- 2016-05-26 Star 100
-- 2016-06-06 Star 200
-- 2016-06-13 Star 300
-- 2016-07-07 Star 400
-- 2016-08-18 Star 500
-- 2016-09-28 Star 600
-- 2016-10-24 Star 700
-- ...
-- 2016-11-05 Star 1000
-- ...
+MIT
